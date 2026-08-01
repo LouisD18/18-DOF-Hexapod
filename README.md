@@ -1,7 +1,16 @@
 # Terrain-Adaptable-18-DOF-Hexapod
-Development of a hobby autonomous 24 DOF underactuated Hexapod. In April 2026, I started to build a 6 legged robot controlled through arduino as a hobby project. Currently adding environmental feedback.
+Development of a 18 DOF personal Hexapod. In April 2026, I started to build a 6 legged robot controlled through Arduino as a hobby project.
 
-Currently, the hexapod can
-- walk with tripod gait
+Features:
+- Tripod gait genereation
 - 3 DOF inverse kinematics
-- level it's body on uneven terrain
+- IMU-based body orientation sensing
+- Ground detection per foot
+
+Hardware:
+- Arduino UNO
+- 18 35kg DS3235 servos
+- 3s LIPO battery
+- OMRON Lever foot switches
+- 6.8/5V UBECs
+- 3D-printed chassis/legs
