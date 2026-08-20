@@ -1,5 +1,5 @@
 # 18-DOF-Hexapod
-Development of an 18 DOF personal Hexapod. In April 2026, I started to build a 6 legged robot controlled through Arduino as a hobby project.
+This project documents the development of an 18-DOF hexapod robot I began designing and building in April 2026. The mechanical system, electronics, controller, and locomotion software were developed from scratch as an independent robotics project.
 
 Features:
 - Tripod gait genereation
