@@ -18,3 +18,6 @@ Hardware:
 - OMRON Lever foot switches
 - 6.8/5V UBECs
 - 3D-printed chassis/legs
+
+The hexapod moves by using inverse kinematics to trace out a bezier path. If the ground is detected with the foot switches, a modified bezier path is followed. The following image shows this.  
+<img width="638" height="501" alt="image" src="https://github.com/user-attachments/assets/b39bf4aa-c605-48f2-8248-d0a4294faf25" />
