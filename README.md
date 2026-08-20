@@ -6,9 +6,11 @@ Features:
 - 3 DOF inverse kinematics
 - IMU-based body orientation sensing
 - Ground detection per foot
+- Ground adaptation (a bit iffy right now)
 
 Hardware:
 - Arduino UNO
+- Custom PCB
 - 18 35kg DS3235 servos
 - 3s LIPO battery
 - OMRON Lever foot switches
