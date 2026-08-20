@@ -1,5 +1,5 @@
-# Terrain-Adaptable-18-DOF-Hexapod
-Development of a 18 DOF personal Hexapod. In April 2026, I started to build a 6 legged robot controlled through Arduino as a hobby project.
+# 18-DOF-Hexapod
+Development of an 18 DOF personal Hexapod. In April 2026, I started to build a 6 legged robot controlled through Arduino as a hobby project.
 
 Features:
 - Tripod gait genereation
